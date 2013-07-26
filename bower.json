@@ -1,0 +1,10 @@
+{
+  "name": "iso-4217-currency-codes-angular",
+  "version": "1.0.0",
+  "main": "dist/iso-4217-currency-codes-angular.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

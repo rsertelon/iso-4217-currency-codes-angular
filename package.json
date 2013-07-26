@@ -1,0 +1,28 @@
+{
+  "name": "iso-4217-currency-codes-angular",
+  "version": "1.0.0",
+  "description": "An AngularJS module to work with Currency Codes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BluePyth/iso-4217-currency-codes-angular.git"
+  },
+  "keywords": [
+    "Currency",
+    "Code",
+    "ISO",
+    "4217"
+  ],
+  "author": "Romain Sertelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BluePyth/iso-4217-currency-codes-angular/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
