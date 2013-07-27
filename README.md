@@ -37,7 +37,7 @@ angular.module('myApp')
     // }
 
     // Direct access to the data
-    console.log(ISO4217.codeToCurrency)
+    console.log(ISO4217.codeToCurrency);
     // {
     //   'EUR': {
     //     'name': 'Euro',
@@ -52,7 +52,7 @@ angular.module('myApp')
 
 If you get currency codes from your REST server, you can print its name with the provided filter:
 
-`̀ `html
+```html
 <!-- if currencyCode is 'EUR', will print 'Euro' -->
 <p>{{currencyCode | isoCurrency }}</p>
 ```
