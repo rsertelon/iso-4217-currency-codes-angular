@@ -13,7 +13,7 @@ This project is an ISO 4217 (Currency codes) module for AngularJS. It provides:
 This library is available with the bower package manager, you can either:
 
 * Execute the following command: `bower install iso-4217-currency-codes-angular --save`
-* Add this line in your dependencies: `"iso-4217-currency-codes-angular": "1.0.0"`
+* Add this line in your dependencies: `"iso-4217-currency-codes-angular": "1.0.1"`
 
 ## Features
 
