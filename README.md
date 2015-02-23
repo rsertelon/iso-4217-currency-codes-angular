@@ -6,7 +6,7 @@ This project is an ISO 4217 (Currency codes) module for AngularJS. It provides:
 * A filter to print currency codes as their name (EUR -> Euro)
 * A validation directive to validate currency codes
 
->Note: in the currency information, country codes follow the ISO 3166 standard. Here is [another library](http://bluepyth.github.io/iso-3166-country-codes-angular) to work with them
+>Note: in the currency information, country codes follow the ISO 3166 standard. Here is [another library](http://rsertelon.github.io/iso-3166-country-codes-angular) to work with them
 
 ## Get it
 
@@ -70,7 +70,7 @@ If you want users to enter currency codes, you can validate it like so (it fits 
 
 ## Issues, Feature request
 
-You can use [Github's issues](https://github.com/BluePyth/iso-4217-currency-codes-angular/issues) to submit feature requests and bug reports.
+You can use [Github's issues](https://github.com/rsertelon/iso-4217-currency-codes-angular/issues) to submit feature requests and bug reports.
 
 ## Contributions
 
