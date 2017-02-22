@@ -1,7 +1,7 @@
 {
   "name": "iso-4217-currency-codes-angular",
   "version": "1.0.1",
-  "main": "dist/iso-4217-currency-codes-angular.js",
+  "main": "dist/iso-4217-currency-codes-angular.min.js",
   "ignore": [
     "**/.*",
     "node_modules",
